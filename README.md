@@ -7,7 +7,7 @@ Predict wheather a Terry Stop results in an arrest from :
 - Time of day of stop
 - If a Frisk was done
 - Subjects Gender
-- Possesion of weapon by subject
+- Possession of weapon by subject
 
 # Approach
 The binary Model uses feature selection on columns to build a model to satisfy the problem statemnt. 
@@ -22,7 +22,7 @@ The Dataset is Sourced from the Seattle government state [website](https://data.
 To combact effects of class imbalance on the Model Training , the SMOTE technique is to be used.
 
 # Evaluation
-The following is a likelihood of a Stop subject in possesion of a weapon :
+The following is a likelihood of a Stop subject in possession of a weapon :
   - Male   - 7%
   - Female - 3%
 - White - 7%
