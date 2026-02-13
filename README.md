@@ -34,7 +34,10 @@ The following is a likelihood of a Stop subject in possesion of a weapon :
 
 
 Fitting the Logistic Regression and Decision Tree Model
-                - LogisticRegression :       Decision Tree :
+                
+                
+   |             | - LogisticRegression |       - Decision Tree |
+   |:---|        |:---:| |:---:|
    -  Accuracy:       58%                      59%
    -  Precision:      16.38%                   16.54%
    -  Recall:         64%                      63%
