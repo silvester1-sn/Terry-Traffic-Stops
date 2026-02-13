@@ -34,15 +34,14 @@ The following is a likelihood of a Stop subject in possesion of a weapon :
 
 
 Fitting the Logistic Regression and Decision Tree Model
-                
-                
-   | Metric | LogisticRegression | Decision Tree |
-   |:---|        |:---:|           |:---:|
-   |Accuracy |    | 58% |             |59%|
-   |Precision |    |16.38%|           |16.54%|
-   |Recall |         |64%|             |63%|
-   |F1 Score |       |26%|             |26%|
-   |ROC-AUC Score |  |65%|             | 65%|
+
+ Metric | LogisticRegression | Decision Tree |
+| :--- | :---: | :---: |
+| Accuracy | 58% | 59% |
+| Precision | 16.38% | 16.54% |
+| Recall | 64% | 63% |
+| F1 Score | 26% | 26% |
+| ROC-AUC Score | 65% | 65% |
 
 
 The Decision Tree had;
